@@ -1,8 +1,8 @@
-.jekyll-metadata
 # Global
 *.DS_Store
 Desktop.ini
 Thumbs.db
+*.sublime-*
 
 # Project
 !.keep
@@ -12,3 +12,4 @@ Thumbs.db
 /.asset-cache/
 Gemfile.lock
 yarn.lock
+.jekyll-metadata
