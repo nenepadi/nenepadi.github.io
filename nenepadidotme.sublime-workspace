@@ -1,0 +1,1812 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"selec",
+				"selected_image"
+			],
+			[
+				"callback",
+				"callback-fn\t(ahonya_single.ejs)"
+			],
+			[
+				"up",
+				"uploadImage"
+			],
+			[
+				"check",
+				"checkSuccessFn"
+			],
+			[
+				"upl",
+				"upload-image\t(configure.service.js)"
+			],
+			[
+				"s3f",
+				"s3fsImpl"
+			],
+			[
+				"crs",
+				"csrfProtection"
+			],
+			[
+				"AWS",
+				"AWS_ACCESS_SECRET\t(config.js)"
+			],
+			[
+				"AWS_A",
+				"AWS_ACCESS_KEY\t(config.js)"
+			],
+			[
+				"conf",
+				"configuration_grpc_pb.js"
+			],
+			[
+				"is",
+				"is_active\t(misc.py)"
+			],
+			[
+				"image_",
+				"image_to_proto\t(misc.py)"
+			],
+			[
+				"image",
+				"image_type"
+			],
+			[
+				"ima",
+				"image_id\t(configuration.proto)"
+			],
+			[
+				"con",
+				"configuration_pb2"
+			],
+			[
+				"ConfigurationMana",
+				"ConfigurationManagerServicer\t(configuration_pb2.py)"
+			],
+			[
+				"add",
+				"add_ConfigurationManagerServicer_to_server\t(configuration_pb2.py)"
+			],
+			[
+				"config",
+				"Configuration"
+			],
+			[
+				"succ",
+				"successResponse"
+			],
+			[
+				"Str",
+				"StringField\t(order.py)"
+			],
+			[
+				"orderRe",
+				"orderReply"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"account",
+				"account_pb2"
+			],
+			[
+				"sear",
+				"searchQuery"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"we",
+				"web-account"
+			],
+			[
+				"job",
+				"job-proxy-fetcher/"
+			],
+			[
+				"side",
+				"sideNavLinkExpand"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"just",
+				"justify-content"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"border-lef",
+				"border-left-width"
+			],
+			[
+				"border-bottom",
+				"border-bottom-left-radius"
+			],
+			[
+				"border",
+				"border-top-left-radius"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"start",
+				"start_worker"
+			],
+			[
+				"CUST",
+				"CUSTOM_SCRIPTS\t(base.py)"
+			],
+			[
+				"Auth",
+				"AuthenticationReply"
+			],
+			[
+				"paymen",
+				"paymentOptions"
+			],
+			[
+				"phone",
+				"phone_regxp"
+			],
+			[
+				"enab",
+				"enablePayment"
+			],
+			[
+				"transa",
+				"transactionid\t(checkout.ejs)"
+			],
+			[
+				"disa",
+				"disabled"
+			],
+			[
+				"ahonya_",
+				"ahonya_pay_select"
+			],
+			[
+				"pou",
+				"popularSearches"
+			],
+			[
+				"popula",
+				"popular-search\t(index.ejs)"
+			],
+			[
+				"clea",
+				"cleanPhoneNo"
+			],
+			[
+				"pho",
+				"phoneRegexp"
+			],
+			[
+				"ema",
+				"emailTab"
+			],
+			[
+				"modal_",
+				"modal_email_sms"
+			],
+			[
+				"current",
+				"currentUsersName"
+			],
+			[
+				"strip",
+				"stripay\t(checkout.ejs)"
+			],
+			[
+				"transform",
+				"transformed_order"
+			],
+			[
+				"back",
+				"background-color\t(checkout.ejs)"
+			],
+			[
+				"border-rad",
+				"border-radius:0px\t(checkout.ejs)"
+			],
+			[
+				"va",
+				"validate"
+			],
+			[
+				"sa",
+				"saveBtn"
+			],
+			[
+				"key",
+				"keyup\t.keyup()"
+			],
+			[
+				"all",
+				"all_cancelled"
+			],
+			[
+				"num",
+				"num_cancelled"
+			],
+			[
+				"nu",
+				"num_cancelled"
+			],
+			[
+				"fulfil",
+				"fulfilmentStatus"
+			],
+			[
+				"ful",
+				"fulfilmentStatus\t(api_order.js)"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"totalD",
+				"totalDomesticShipping\t(order.controller.js)"
+			],
+			[
+				"Dome",
+				"domesticShipping"
+			],
+			[
+				"unde",
+				"underReview\t(api_order.js)"
+			],
+			[
+				"total",
+				"total_px\t(api_order.js)"
+			],
+			[
+				"re",
+				"redirectHashes"
+			],
+			[
+				"redirect",
+				"redirectHashes"
+			],
+			[
+				"return",
+				"return_url"
+			],
+			[
+				"A",
+				"AHONYA_PAY_TOKEN\t(config.js)"
+			],
+			[
+				"bank",
+				"bank_deposit"
+			],
+			[
+				"payment",
+				"paymentRequest"
+			],
+			[
+				"curre",
+				"currencyRate\t(order.controller.js)"
+			],
+			[
+				"extra",
+				"extraPayments"
+			],
+			[
+				"meth",
+				"method\t(checkout.ejs)"
+			],
+			[
+				"tra",
+				"transaction_id"
+			],
+			[
+				"finsh",
+				"finish_order"
+			],
+			[
+				"phon",
+				"phone_regxp"
+			],
+			[
+				"ret",
+				"return_url"
+			],
+			[
+				"myorde",
+				"myorders\t(index.js)"
+			],
+			[
+				"tran",
+				"transformed_order"
+			],
+			[
+				"send",
+				"sendSmsNotify\t(notification.js)"
+			],
+			[
+				"ba",
+				"balanceDue"
+			],
+			[
+				"trans",
+				"transformed_order"
+			],
+			[
+				"console",
+				"console.log"
+			],
+			[
+				"transformed",
+				"transformedOrder"
+			],
+			[
+				"status",
+				"statusCode"
+			],
+			[
+				"REVIEWED",
+				"REVIEWED_NO_CANCEL_BALANCE\t(notification.js)"
+			],
+			[
+				"REV",
+				"REVIEWED_CANCELLED_BALANCE"
+			],
+			[
+				"email",
+				"emailTemplates"
+			],
+			[
+				"rev",
+				"reviewed_no_cancel"
+			],
+			[
+				"bala",
+				"balance_due"
+			],
+			[
+				"amoun",
+				"amount_paid"
+			],
+			[
+				"total_",
+				"total_to_pay"
+			],
+			[
+				"AHON",
+				"AHONYA_PAY_CLIENT_ID\t(config.js)"
+			],
+			[
+				"user",
+				"user_details"
+			],
+			[
+				"ahonya",
+				"ahonya_app"
+			],
+			[
+				"RE",
+				"REVIEWED_NO_CANCEL\t(notification.js)"
+			],
+			[
+				"call",
+				"callback-fn\t(ahonya_single.ejs)"
+			],
+			[
+				"cli",
+				"clickAction"
+			],
+			[
+				"confir",
+				"confirm_msg"
+			],
+			[
+				"offline",
+				"offline_mobile_money"
+			],
+			[
+				"request",
+				"request.session.cart\t(index.js)"
+			],
+			[
+				"messag",
+				"message1"
+			],
+			[
+				"onlin",
+				"online_mobile_money\t(checkout.ejs)"
+			],
+			[
+				"STR",
+				"STRIPE_PUBLISHABLE_KEY\t(config.js)"
+			],
+			[
+				"payment_m",
+				"payments_method"
+			],
+			[
+				"auth",
+				"auth_pay"
+			],
+			[
+				"resp",
+				"responseCode"
+			],
+			[
+				"dis",
+				"display:none"
+			],
+			[
+				"progress",
+				"progressbar"
+			],
+			[
+				"progess",
+				"progressbar"
+			],
+			[
+				"set",
+				"setOutcome"
+			],
+			[
+				"che",
+				"checkPayment"
+			],
+			[
+				"AH",
+				"AHONYA_PAY_CALLBACK_URL"
+			],
+			[
+				"error",
+				"errorThrown"
+			],
+			[
+				"AHONYA",
+				"AHONYA_PAY_TOKEN\t(config.js)"
+			],
+			[
+				"ran",
+				"randomValueHex"
+			],
+			[
+				"place",
+				"placeholder\tAttr"
+			],
+			[
+				"colo",
+				"color:#ff780d"
+			],
+			[
+				"online",
+				"online_pay"
+			],
+			[
+				"aria",
+				"aria-hidden"
+			],
+			[
+				"change",
+				"changeOrderItemETA"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_includes/head.html",
+			"settings":
+			{
+				"buffer_size": 3178,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1859,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_layouts/articles_by_tag.html",
+			"settings":
+			{
+				"buffer_size": 1285,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_layouts/post.html",
+			"settings":
+			{
+				"buffer_size": 3872,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 1437,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "about.html",
+			"settings":
+			{
+				"buffer_size": 287,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/navigation.html",
+			"settings":
+			{
+				"buffer_size": 2148,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Settings",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"Package Control: In",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Remo",
+				"Package Control: Remove Channel"
+			],
+			[
+				"Package Control: Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"From 0 to ",
+				"Text Pastry: From 0 To X"
+			],
+			[
+				"pcip",
+				"Package Control: Install Package"
+			],
+			[
+				"tasks",
+				"Tasks: New document"
+			],
+			[
+				"an",
+				"ANF: New File"
+			],
+			[
+				"from ",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"from",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"Text Pastry From 1 To X",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"boco",
+				"Boxy Theme: Configuration"
+			],
+			[
+				"",
+				"A File Icon: Settings"
+			],
+			[
+				"Preferences: User",
+				"Preferences: Package Control Settings – User"
+			]
+		],
+		"width": 558.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/Data HD/Devel/jekyl/nenepadi.github.io",
+		"/Volumes/Data HD/Devel/jekyl/nenepadi.github.io/_posts"
+	],
+	"file_history":
+	[
+		"/Users/nenepadi/Library/Application Support/Sublime Text 3/Packages/Jekyll/README.md",
+		"/Volumes/Data HD/Devel/jekyl/nenepadi.github.io/_posts/2016-10-15-chalk-sample-post-with-all-elements.md",
+		"/Volumes/Data HD/Devel/jekyl/nenepadi.github.io/_posts/2016-10-17-introducing-chalk.md",
+		"/Volumes/Data HD/Devel/jekyl/nenepadi.github.io/_layouts/default.html",
+		"/Volumes/Data HD/Devel/jekyl/nenepadi.github.io/_site/index.html",
+		"/Volumes/Data HD/Devel/jekyl/nenepadi.github.io/_includes/stylesheet.html",
+		"/Volumes/Data HD/Devel/jekyl/nenepadi.github.io/_includes/navigation.html",
+		"/Volumes/Data HD/Devel/jekyl/nenepadi.github.io/_includes/footer.html",
+		"/Volumes/Data HD/Devel/jekyl/nenepadi.github.io/_layouts/post.html",
+		"/Volumes/Data HD/Devel/jekyl/nenepadi.github.io/_includes/javascripts.html",
+		"/Volumes/Data HD/Devel/jekyl/nenepadi.github.io/_includes/javascript.html",
+		"/Volumes/Data HD/Devel/jekyl/nenepadi.github.io/_config.yml",
+		"/Volumes/Data HD/Ahonya/web-ahonya/views/partials/head.ejs",
+		"/Volumes/Data HD/Devel/jekyl/nenepadi.github.io/_includes/image.html",
+		"/Volumes/Data HD/Devel/jekyl/nenepadi.github.io/favicon.ico",
+		"/Volumes/Data HD/Devel/jekyl/nenepadi.github.io/.gitignore",
+		"/Volumes/Data HD/Devel/jekyl/nenepadi.github.io/.jekyll-metadata",
+		"/Volumes/Data HD/Devel/jekyl/nenepadi.github.io/404.html",
+		"/Volumes/Data HD/Devel/jekyl/nenepadi.github.io/_my_tags/js.md",
+		"/Volumes/Data HD/Devel/jekyl/nenepadi.github.io/_my_tags/mobile.md",
+		"/Volumes/Data HD/Devel/jekyl/nenepadi.github.io/_my_tags/webdev.md",
+		"/Volumes/Data HD/Devel/jekyl/nenepadi.github.io/_my_tags/projects",
+		"/Volumes/Data HD/Devel/jekyl/nenepadi.github.io/_my_tags/python.md",
+		"/Volumes/Data HD/Devel/jekyl/nenepadi.github.io/_my_tags/tutorials.md",
+		"/Volumes/Data HD/Devel/jekyl/nenepadi.github.io/_my_tags/observations.md",
+		"/Volumes/Data HD/Devel/jekyl/nenepadi.github.io/_my_tags/career.md",
+		"/Volumes/Data HD/Devel/jekyl/nenepadi.github.io/_my_tags/design.md",
+		"/Volumes/Data HD/Devel/jekyl/nenepadi.github.io/_includes/head.html",
+		"/Volumes/Data HD/Devel/jekyl/nenepadi.github.io/bin/deploy",
+		"/Volumes/Data HD/Devel/jekyl/nenepadi.github.io/_assets/javascripts/application.js",
+		"/Volumes/Data HD/Devel/jekyl/nenepadi.github.io/_assets/images/og-image.jpg",
+		"/Volumes/Data HD/Devel/jekyl/nenepadi.github.io/_assets/images/apple-touch-icon.png",
+		"/Volumes/Data HD/Devel/jekyl/nenepadi.github.io/_assets/images/about.jpg",
+		"/Volumes/Data HD/Devel/jekyl/nenepadi.github.io/_assets/images/about@2x.jpg",
+		"/Volumes/Data HD/Devel/jekyl/nenepadi.github.io/index.html",
+		"/Volumes/Data HD/Devel/jekyl/nenepadi.github.io/bin/setup",
+		"/Volumes/Data HD/Devel/jekyl/nenepadi.github.io/_my_tags/web.md",
+		"/Volumes/Data HD/Devel/jekyl/nenepadi.github.io/_my_tags/jekyll.md",
+		"/Volumes/Data HD/Devel/jekyl/nenepadi.github.io/.ruby-version",
+		"/Volumes/Data HD/Devel/jekyl/nenepadi.github.io/feed.xml",
+		"/Volumes/Data HD/Devel/jekyl/nenepadi.github.io/README.md",
+		"/Volumes/Data HD/Devel/jekyl/nenepadi.github.io/about.html",
+		"/Volumes/Data HD/Devel/jekyl/nenepadi.github.io/Gemfile",
+		"/Volumes/Data HD/Devel/jekyl/nenepadi.github.io/robots.txt",
+		"/Volumes/Data HD/Ahonya/web-manager/public/javascripts/configure/configure.service.js",
+		"/Volumes/Data HD/Ahonya/web-manager/public/javascripts/utils/switch_state.directive.js",
+		"/Volumes/Data HD/Ahonya/web-manager/controllers/api_configure.js",
+		"/Volumes/Data HD/Ahonya/web-manager/public/javascripts/configure/configure.controller.js",
+		"/Volumes/Data HD/Ahonya/web-manager/views/templates/configure.ejs",
+		"/Volumes/Data HD/Ahonya/web-ahonya/controllers/index.js",
+		"/Volumes/Data HD/Ahonya/web-manager/controllers/index.js",
+		"/Volumes/Data HD/Ahonya/web-manager/public/javascripts/order/order.controller.js",
+		"/Volumes/Data HD/Ahonya/web-manager/app3.js",
+		"/Volumes/Data HD/Ahonya/ahonya-docker/README.md",
+		"/Volumes/Data HD/Ahonya/ahonya-docker/docker-compose.yml",
+		"/Users/nenepadi/Downloads/cv_9.tex",
+		"/Volumes/Data HD/Ahonya/web-ahonya/views/partials/navigation.ejs",
+		"/Volumes/Data HD/Ahonya/web-ahonya/public/ahonya/css/ahonya.css",
+		"/Volumes/Data HD/Ahonya/web-ahonya/views/aboutus.ejs",
+		"/Volumes/Data HD/Ahonya/web-ahonya/views/index.ejs",
+		"/Volumes/Data HD/Ahonya/web-ahonya/views/careers.ejs",
+		"/Volumes/Data HD/Ahonya/web-ahonya/views/team.ejs",
+		"/Volumes/Data HD/Ahonya/web-ahonya/views/privacy.ejs",
+		"/Volumes/Data HD/Ahonya/web-ahonya/views/prohibited.ejs",
+		"/Volumes/Data HD/Ahonya/web-ahonya/views/terms.ejs",
+		"/Volumes/Data HD/Ahonya/web-ahonya/views/refunds.ejs",
+		"/Volumes/Data HD/Ahonya/web-ahonya/views/backups/index.ejs",
+		"/Volumes/Data HD/Ahonya/web-ahonya/views/backups/careers.ejs",
+		"/Volumes/Data HD/Ahonya/web-ahonya/views/backups/aboutus.ejs",
+		"/Volumes/Data HD/Ahonya/web-ahonya/controllers/api_order.js",
+		"/Volumes/Data HD/Ahonya/web-ahonya/public/ahonya/js/main.js",
+		"/Volumes/Data HD/Ahonya/web-ahonya/views/myorders/single.ejs",
+		"/Volumes/Data HD/Ahonya/web-ahonya/views/myorders/all.ejs",
+		"/Volumes/Data HD/Ahonya/web-ahonya/views/checkout.ejs",
+		"/Volumes/Data HD/Ahonya/web-ahonya/config.js",
+		"/Volumes/Data HD/Ahonya/web-manager/public/assets/js/custom.js",
+		"/Volumes/Data HD/Ahonya/web-ahonya/views/partials/backups/header.ejs",
+		"/Volumes/Data HD/Ahonya/web-ahonya/public/ahonya/js/main.jquery.js",
+		"/Volumes/Data HD/Ahonya/web-ahonya/views/ops.ejs",
+		"/Volumes/Data HD/Ahonya/web-ahonya/views/test.ejs",
+		"/Volumes/Data HD/Ahonya/web-ahonya/views/topbar.ejs",
+		"/Volumes/Data HD/Ahonya/web-ahonya/views/robot.ejs",
+		"/Volumes/Data HD/Ahonya/web-ahonya/views/payment_success.ejs",
+		"/Volumes/Data HD/Ahonya/web-ahonya/views/myorders.ejs",
+		"/Volumes/Data HD/Ahonya/web-ahonya/views/findus.ejs",
+		"/Volumes/Data HD/Ahonya/web-ahonya/views/faqs.ejs",
+		"/Volumes/Data HD/Ahonya/web-ahonya/views/empty-cart.ejs",
+		"/Volumes/Data HD/Ahonya/web-ahonya/views/checkout_success.ejs",
+		"/Volumes/Data HD/Ahonya/web-ahonya/views/ads.ejs",
+		"/Volumes/Data HD/Ahonya/web-ahonya/views/cart.ejs",
+		"/Volumes/Data HD/Ahonya/web-manager/views/templates/orders/ahonya_single.ejs",
+		"/Volumes/Data HD/Ahonya/web-manager/views/index.ejs",
+		"/Volumes/Data HD/Ahonya/web-manager/public/javascripts/utils/order_review_confirmation.directive.js",
+		"/Volumes/Data HD/Ahonya/web-manager/public/assets/js/layout_fixed_custom.js",
+		"/Volumes/Data HD/Ahonya/web-manager/public/assets/js/angular.fancytree.js",
+		"/Volumes/Data HD/Ahonya/web-manager/public/assets2/application.js",
+		"/Volumes/Data HD/Ahonya/web-manager/public/assets/js/core/app.js",
+		"/Volumes/Data HD/Ahonya/web-manager/public/assets/js/core/app.min.js",
+		"/Volumes/Data HD/Ahonya/web-manager/public/javascripts/order/order.service.js",
+		"/Volumes/Data HD/Ahonya/web-manager/public/javascripts/utils/fileinput.directive.js",
+		"/Volumes/Data HD/Ahonya/web-manager/views/templates/mobile/sliders.ejs",
+		"/Volumes/Data HD/Ahonya/web-manager/public/javascripts/mobile/mobile.controller.js",
+		"/Volumes/Data HD/Ahonya/web-manager/public/javascripts/utils/recursive_categories.directive.js",
+		"/Volumes/Data HD/Ahonya/web-manager/public/javascripts/app.app.js",
+		"/Volumes/Data HD/Ahonya/web-manager/controllers/api_user.js",
+		"/Volumes/Data HD/Ahonya/web-manager/controllers/api_order.js",
+		"/Volumes/Data HD/Ahonya/web-manager/controllers/api_ads.js",
+		"/Volumes/Data HD/Ahonya/web-manager/controllers/api.js",
+		"/Volumes/Data HD/Ahonya/web-manager/config.js",
+		"/Volumes/Data HD/Ahonya/web-manager/views/templates/orders/detail_inview.ejs",
+		"/Volumes/Data HD/Ahonya/web-manager/package.json",
+		"/Volumes/Data HD/Ahonya/web-manager/public/javascripts/mobile/categories.controller.js",
+		"/Volumes/Data HD/Ahonya/utils/template/template/assets/js/pages/gallery_library.js",
+		"/Volumes/Data HD/Ahonya/utils/template/template/gallery_library.html",
+		"/Volumes/Data HD/Ahonya/web-manager/.gitignore",
+		"/Volumes/Data HD/Ahonya/web-manager/public/javascripts/user/user.controller.js",
+		"/Volumes/Data HD/Ahonya/web-manager/public/javascripts/user/user.service.js",
+		"/Volumes/Data HD/Ahonya/web-manager/views/templates/ads.ejs",
+		"/Volumes/Data HD/Ahonya/web-manager/views/templates/orders/ahonya.ejs",
+		"/Volumes/Data HD/Ahonya/web-manager/views/testfile.ejs",
+		"/Volumes/Data HD/Ahonya/web-manager/helpers/notification.js",
+		"/Volumes/Data HD/Ahonya/web-manager/helpers/responder.js",
+		"/Volumes/Data HD/Ahonya/web-manager/helpers/image_model.js",
+		"/Volumes/Data HD/Ahonya/web-manager/helpers/myfs.js",
+		"/Volumes/Data HD/Ahonya/service-config/controllers/configuration.py",
+		"/Volumes/Data HD/Ahonya/service-config/models/configuration.py",
+		"/Volumes/Data HD/Ahonya/service-order/controllers/order.py",
+		"/Volumes/Data HD/Ahonya/web-ahonya/public/javascripts/order/controllers/order.controller.js"
+	],
+	"find":
+	{
+		"height": 53.0
+	},
+	"find_in_files":
+	{
+		"height": 143.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"gh-pages",
+			"notifyMe",
+			"notififyMe",
+			"#shoppers",
+			"diable",
+			"disable",
+			"diable",
+			"updatePayment",
+			"sendInvoice",
+			"dots",
+			"dot",
+			"=====",
+			"========",
+			">\n",
+			"String",
+			"getOrders",
+			"getHome",
+			"custom-select",
+			"radio",
+			"custom-control",
+			"custom",
+			"index.html",
+			"rmb",
+			"bord",
+			"mpower",
+			".bord",
+			"owl",
+			".owl",
+			".deliver",
+			"timeline",
+			"style=\"margin-bottom:4em;\"",
+			"UserAccount",
+			"#first",
+			"ops",
+			"my-col",
+			"addTopBar"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_includes/head.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3178,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								408,
+								418
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										419,
+										420
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										406,
+										407
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1859,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								298,
+								298
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										305,
+										306
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										272,
+										273
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_layouts/articles_by_tag.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1285,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_layouts/post.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3872,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										14,
+										15
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/angle_bracket.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										0,
+										1
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1437,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								51,
+								51
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "about.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 287,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								287,
+								287
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "_includes/navigation.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2148,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2148,
+								2148
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 191.0
+	},
+	"pinned_build_system": "",
+	"project": "nenepadidotme.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Sites/salarmy/salarmy.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 218.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,20 +1,74 @@
----
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom" xmlns:dc="https://purl.org/dc/elements/1.1/">
   <channel>
-    <title>{{ site.name | xml_escape }}</title>
-    <description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
-    <link>{{ site.url }}</link>
-    <atom:link href="{{ page.path | absolute_url }}" rel="self" type="application/rss+xml" />
-    {% for post in site.posts limit:10 %}
+    <title>nenepadi.me</title>
+    <description></description>
+    <link></link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.description | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | absolute_url }}</link>
-        <guid isPermaLink="true">{{ post.url | absolute_url }}</guid>
+        <title>Introducing Firebase!!!</title>
+        <description>Brief introduction to the core concepts of Google's Firebase with slides presented at #DevfestUCC 2016.</description>
+        <pubDate>Fri, 28 Oct 2016 00:00:00 +0000</pubDate>
+        <link>/posts/introducing-firebase</link>
+        <guid isPermaLink="true">/posts/introducing-firebase</guid>
       </item>
-    {% endfor %}
+    
+      <item>
+        <title>Capturing audio the native way - Android</title>
+        <description>The android platform has a very easy way that we could capture audio; either from the gadgets microphone, or a call. Lets see how we will build a custom recording application.</description>
+        <pubDate>Fri, 12 Aug 2016 00:00:00 +0000</pubDate>
+        <link>/posts/android-audio-capture</link>
+        <guid isPermaLink="true">/posts/android-audio-capture</guid>
+      </item>
+    
+      <item>
+        <title>Vim as IDE, Part 1</title>
+        <description>I spent all my time transforming VIM into an IDE, and this is an account of it.</description>
+        <pubDate>Sat, 25 Jun 2016 00:00:00 +0000</pubDate>
+        <link>/posts/vim-and-me</link>
+        <guid isPermaLink="true">/posts/vim-and-me</guid>
+      </item>
+    
+      <item>
+        <title>This week</title>
+        <description>Emerging Leaders in Technology and engineering (ELiTe) began in 2009 when co-founders, and Columbia University classmates, Chelsey Roebuck and Clayton Dahlman took a summer trip to teach hands-on science in rural Ghana.</description>
+        <pubDate>Fri, 29 Aug 2014 00:00:00 +0000</pubDate>
+        <link>/posts/this-week</link>
+        <guid isPermaLink="true">/posts/this-week</guid>
+      </item>
+    
+      <item>
+        <title>Python and mobile apps</title>
+        <description>My hack led me to Kivy, a desktop and mobile framework in Python.</description>
+        <pubDate>Thu, 21 Aug 2014 00:00:00 +0000</pubDate>
+        <link>/posts/python-mobile-apps</link>
+        <guid isPermaLink="true">/posts/python-mobile-apps</guid>
+      </item>
+    
+      <item>
+        <title>My first hack with the board - Part 2</title>
+        <description>The code for my traffic light system</description>
+        <pubDate>Mon, 30 Jun 2014 00:00:00 +0000</pubDate>
+        <link>/posts/arduino-hack-2</link>
+        <guid isPermaLink="true">/posts/arduino-hack-2</guid>
+      </item>
+    
+      <item>
+        <title>My first hack with the board - Part 1</title>
+        <description>My first and true encounter with arduino ...</description>
+        <pubDate>Mon, 30 Jun 2014 00:00:00 +0000</pubDate>
+        <link>/posts/arduino-hack-1</link>
+        <guid isPermaLink="true">/posts/arduino-hack-1</guid>
+      </item>
+    
+      <item>
+        <title>What software development interns need to know</title>
+        <description>How I prepared myself for internship and what I learnt in my first few weeks.</description>
+        <pubDate>Fri, 13 Jun 2014 00:00:00 +0000</pubDate>
+        <link>/posts/software-interns</link>
+        <guid isPermaLink="true">/posts/software-interns</guid>
+      </item>
+    
   </channel>
 </rss>
