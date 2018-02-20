@@ -55,6 +55,7 @@ exclude:
   - yarn.lock
   - nenepadidotme.*
   - _drafts
+  - _assets
 plugins:
   - jekyll-assets
   - jekyll-paginate
