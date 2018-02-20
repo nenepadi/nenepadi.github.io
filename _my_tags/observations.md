@@ -1,4 +1,0 @@
----
-slug: observations
-name: Observations
----

@@ -1,4 +1,0 @@
----
-slug: events
-name: Events
----
