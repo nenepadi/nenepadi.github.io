@@ -53,6 +53,8 @@ exclude:
   - README.md
   - vendor/
   - yarn.lock
+  - nenepadidotme.*
+  - _drafts
 plugins:
   - jekyll-assets
   - jekyll-paginate
